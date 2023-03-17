@@ -5,6 +5,12 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend", "DtMoneyBackend.Api\DtMoneyBackend.Api.csproj", "{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Entities", "DtMoneyBackend.Entities\DtMoneyBackend.Entities.csproj", "{7C253DD9-9A5D-444D-A767-957D24D66C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Services", "DtMoneyBackend.Services\DtMoneyBackend.Services.csproj", "{C28AD332-A686-405D-8201-0840BC2C5348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Repositories", "DtMoneyBackend.Repositories\DtMoneyBackend.Repositories.csproj", "{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +24,17 @@ Global
 		{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C253DD9-9A5D-444D-A767-957D24D66C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C253DD9-9A5D-444D-A767-957D24D66C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C253DD9-9A5D-444D-A767-957D24D66C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C253DD9-9A5D-444D-A767-957D24D66C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28AD332-A686-405D-8201-0840BC2C5348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28AD332-A686-405D-8201-0840BC2C5348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28AD332-A686-405D-8201-0840BC2C5348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28AD332-A686-405D-8201-0840BC2C5348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
