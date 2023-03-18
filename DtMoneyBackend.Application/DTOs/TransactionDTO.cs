@@ -1,4 +1,5 @@
 ﻿using DtMoneyBackend.Entities;
+using System.ComponentModel;
 
 namespace DtMoneyBackend.Application.DTOs;
 public class TransactionDTO

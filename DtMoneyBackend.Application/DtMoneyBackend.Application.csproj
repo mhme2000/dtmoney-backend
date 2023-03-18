@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DtMoneyBackend.Data\DtMoneyBackend.Data.csproj" />
+    <ProjectReference Include="..\DtMoneyBackend.Entities\DtMoneyBackend.Entities.csproj" />
   </ItemGroup>
 
 </Project>
