@@ -8,6 +8,6 @@ public class DtMoneyBackendContext : DbContext
     {
         options.UseNpgsql(connectionString: "Host=localhost;Port=5432;Pooling=true;Database=DtMoney;User Id=postgres;Password=123456;");
     }
-    public DbSet<Transaction>? Transaction { get; set; }
-    public DbSet<Category>? Category { get; set; }
+    public DbSet<Transaction> Transaction { get; set; }
+    public DbSet<Category> Category { get; set; }
 }

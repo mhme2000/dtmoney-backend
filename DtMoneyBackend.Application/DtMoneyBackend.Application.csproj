@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DtMoneyBackend.Data\DtMoneyBackend.Data.csproj" />
+  </ItemGroup>
+
 </Project>
