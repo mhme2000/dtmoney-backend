@@ -1,15 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Api", "DtMoneyBackend.Api\DtMoneyBackend.Api.csproj", "{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DtMoneyBackend.Api", "DtMoneyBackend.Api\DtMoneyBackend.Api.csproj", "{7F2E197E-10C4-4E9A-ABA2-DA20C61A8A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Entities", "DtMoneyBackend.Entities\DtMoneyBackend.Entities.csproj", "{7C253DD9-9A5D-444D-A767-957D24D66C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DtMoneyBackend.Entities", "DtMoneyBackend.Entities\DtMoneyBackend.Entities.csproj", "{7C253DD9-9A5D-444D-A767-957D24D66C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Application", "DtMoneyBackend.Application\DtMoneyBackend.Application.csproj", "{C28AD332-A686-405D-8201-0840BC2C5348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DtMoneyBackend.Application", "DtMoneyBackend.Application\DtMoneyBackend.Application.csproj", "{C28AD332-A686-405D-8201-0840BC2C5348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtMoneyBackend.Data", "DtMoneyBackend.Data\DtMoneyBackend.Data.csproj", "{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DtMoneyBackend.Data", "DtMoneyBackend.Data\DtMoneyBackend.Data.csproj", "{C73A984C-204B-4AC0-83E0-3EDE1C1A7AF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

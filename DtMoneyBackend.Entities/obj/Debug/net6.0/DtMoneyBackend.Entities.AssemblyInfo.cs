@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DtMoneyBackend.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653fea08ab9edc0de09b5d1ab4ab7ff129db79e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DtMoneyBackend.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DtMoneyBackend.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
